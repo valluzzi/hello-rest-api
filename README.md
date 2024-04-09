@@ -1,2 +1,3 @@
 # hello-rest-api
-A Test hello api
+
+This project contains source code and supporting files for a serverless application.
