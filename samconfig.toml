@@ -17,6 +17,10 @@ lint = true
 capabilities = "CAPABILITY_IAM"
 confirm_changeset = true
 resolve_s3 = true
+s3_prefix = "aws-sam-cli-managed-production-pipeline-resources"
+region = "us-east-1"
+image_repositories = []
+stack_name = "aws-sam-cli-managed-production-pipeline-resources"
 
 [default.package.parameters]
 resolve_s3 = true
